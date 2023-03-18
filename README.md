@@ -1,5 +1,5 @@
 # PSLW
-PSLW or Personal Shopping List Webpage, is a personalized, adjustable and configurable webpage to your needs.
+PSLW or Personal Shopping List Webpage to list all your shopping items. Simply add them to a list and have an overview of future plans.
 
 ## How to install
  Coming soon...
